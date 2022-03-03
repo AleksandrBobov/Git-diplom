@@ -8,3 +8,4 @@
 1. Легко воспринимаю новую информацию
 
 ![logo](img\about.jpg) 
+![logo](https://github.com/AleksandrBobov/Git-diplom/blob/main/img/about.jpg)
