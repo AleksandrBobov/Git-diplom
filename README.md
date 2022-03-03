@@ -7,5 +7,5 @@
 1. Срессоустойчивость
 1. Легко воспринимаю новую информацию
 
-![Photo](img\about.jpg) 
-![logo](https://github.com/AleksandrBobov/Git-diplom/blob/main/img/about.jpg)
+![Photo](img/about.jpg) 
+
